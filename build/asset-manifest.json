@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75bc5d86.css",
+    "main.js": "/static/js/main.ac5a4cf1.js",
+    "static/media/zanahoria.jpg": "/static/media/zanahoria.653700114f82c6284b95.jpg",
+    "static/media/calvo.jpg": "/static/media/calvo.689eac7150749a0501d6.jpg",
+    "static/media/amina.jpg": "/static/media/amina.a526013cd9e4c8ea2332.jpg",
+    "static/media/mandarina.jpg": "/static/media/mandarina.7c8bce441bb1dcd154a8.jpg",
+    "static/media/montañita.jpg": "/static/media/montañita.11a5347b06dc2664150c.jpg",
+    "static/media/arcoiris.png": "/static/media/arcoiris.aeb171c6a8419b1ddb86.png",
+    "static/media/adrian.jpg": "/static/media/adrian.3d0d3b6b56694d690882.jpg",
+    "static/media/cyber.png": "/static/media/cyber.c0da9ec0e3c9d68113ce.png",
+    "static/media/konciencia.png": "/static/media/konciencia.12fd9d0784a057bd14de.png",
+    "static/media/cebolla.png": "/static/media/cebolla.594626c29cce5820ab76.png",
+    "static/media/monty.png": "/static/media/monty.9ba4b842736569fe1060.png",
+    "static/media/deliplatano.jpeg": "/static/media/deliplatano.6dc88443e8f5e7be3901.jpeg",
+    "static/media/family.jpg": "/static/media/family.b1282819b205a3883030.jpg",
+    "static/media/santana.png": "/static/media/santana.90cc487b63878346266a.png",
+    "static/media/farmer.jpg": "/static/media/farmer.3a45c7239491e0afb2f4.jpg",
+    "static/media/elmoral.jpg": "/static/media/elmoral.af04b4421bb8c1733d88.jpg",
+    "static/media/limon.jpg": "/static/media/limon.0454338fe10613a04114.jpg",
+    "static/media/merca.jpeg": "/static/media/merca.ef21012ee2237eef8d69.jpeg",
+    "static/media/blackF.png": "/static/media/blackF.954f550fb7b02bc591ad.png",
+    "static/media/logoP.png": "/static/media/logoP.4da22228bcb401676248.png",
+    "static/media/margarita.jpg": "/static/media/margarita.87fc37d4a9ce189727eb.jpg",
+    "static/media/doñachus.jpg": "/static/media/doñachus.7f62de990d75e98059c6.jpg",
+    "index.html": "/index.html",
+    "main.75bc5d86.css.map": "/static/css/main.75bc5d86.css.map",
+    "main.ac5a4cf1.js.map": "/static/js/main.ac5a4cf1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75bc5d86.css",
+    "static/js/main.ac5a4cf1.js"
+  ]
+}
